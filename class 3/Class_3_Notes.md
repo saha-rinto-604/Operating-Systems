@@ -1,4 +1,4 @@
-# 🚨 Week 3 Linux Basic Commands 
+# 🚨 Week 3 Bash Scripting Notes
 
 ### Start The Script -Shebang
 
@@ -225,6 +225,7 @@ do
 done
 ```
 ******
+
 
 
 
