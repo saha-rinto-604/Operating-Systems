@@ -1,0 +1,8 @@
+The OS Lab project helps students understand the fundamentals of operating systems through hands-on practice.
+It covers essential Linux commands, scripting, and file management tasks.
+By working on real-world scenarios, students gain practical experience and problem-solving skills.
+This project lays the foundation for advanced topics in system administration and automation.
+
+
+
+Appending contents of a.txt file

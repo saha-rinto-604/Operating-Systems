@@ -1,0 +1,75 @@
+rinto-uiu@LAPTOP-TGO2ODIT:/mnt/c/Users/rinto/OneDrive/Desktop/OS Lab/Operating-Systems/class 2/Assignments$ history
+    1  wsl
+    2  man sudo_root
+    3  wsl
+    4  sudo apt-get update && sudo apt-get upgrade
+    5  git clone
+    6  https://github.com/mit-pdos/xv6-riscv.git
+    7  git --version
+    8  git clone https:..github.com/mit-pdos/xv6-riscv.git
+    9  ls
+   10  git --version
+   11  git clone https://github.com/mit-pdos/xv6-riscv.git
+   12  ls
+   13  cd xv6-riscv
+   14  ls
+   15  make qemu
+   16  sudo apt install make -y
+   17  sudo apt install gcc -y
+   18  sudo apt update && sudo apt install gcc make qemu-system-misc build-essential gdb-multiarch \ gcc-riscv64-unknown-elf binutils-riscv64-unknown-elf -y
+   19  sudo apt install gcc-riscv64-unknown-elf binutils-riscv64-unknown-elf -y
+   20  sudo apt install qemu-system-misc -y
+   21  make clean
+   22  make qemu
+   23  riscv64-unknown-elf-gcc --version
+   24  qemu-system-riscv64 --version
+   25  bash Class_2_Bash_Script.sh
+   26  cd Operating-Systems
+   27  bash Class_2_Bash_Script.sh
+   28  clear
+   29  bash Class_2_Bash_Script.sh
+   30  clear
+   31  bash Class_2_Bash_Script.sh
+   32  cd Class 2
+   33  cd class 2
+   34  clear
+   35  cd class 2
+   36  d "class 2"
+   37  cd "class 2"
+   38  bash Bash_Script.sh
+   39  clear
+   40  cd Assignments/MyDirectory
+   41  touch a.txt
+   42  cd .
+   43  cd ..
+   44  clear
+   45  bash Bash_Script.sh
+   46  cd ..
+   47  bash Bash_Script.sh
+   48  clear
+   49  bash Bash_Script.sh
+   50  cd Assignments/Mydirectory
+   51  cd../..
+   52  cd ../..
+   53  cd ..
+   54  cd "class 2"/Assignments/MyDirectory
+   55  cd ../../..
+   56  ls
+   57  cd "class 2"
+   58  ls
+   59  ls -l
+   60  cd Assignments
+   61  cd MyDirectory
+   62  mv b.txt ../
+   63  cd ..
+   64  mv c.txt rename.txt
+   65  cp b.txt MyDirectory
+   66  echo xv6
+   67  echo "Overwritng b.txt" >b.txt
+   68  echo "Appending the contents of a.txt file">>a.txt
+   69  echo "Appending the contents of a.txt file" >>a.txt
+   70  echo "Appending contents of a.txt file">>a.txt
+   71  echo "\nAppending contents of a.txt file" >> a.txt
+   72  echo -e "\nAppending contents of a.txt file" >> a.txt
+   73  history
+rinto-uiu@LAPTOP-TGO2ODIT:/mnt/c/Users/rinto/OneDrive/Desktop/OS Lab/Operating-Systems/class 2/Assignments$
